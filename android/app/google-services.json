@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "782012103064",
+    "project_id": "linea-de-profundizacion-51602",
+    "storage_bucket": "linea-de-profundizacion-51602.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782012103064:android:be5a396b9536c61ec813ed",
+        "android_client_info": {
+          "package_name": "com.ucundinamarca.primerproyecto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782012103064-25u3dcoac34f9d3oemg1a328ukf6edc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaPkJUfSbhWT5ZGjR0HCezvkZEtNBLbzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782012103064-25u3dcoac34f9d3oemg1a328ukf6edc9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "782012103064-p1ujl3vn65k63got2nquvrnjde3u8sdo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ucundinamarca.primerproyecto"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
